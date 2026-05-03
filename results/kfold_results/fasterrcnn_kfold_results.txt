@@ -1,0 +1,8 @@
+Fold 1: Precision=0.8421 | Recall=1.0000 | F1=0.9143
+Fold 2: Precision=0.9412 | Recall=1.0000 | F1=0.9697
+Fold 3: Precision=0.8986 | Recall=1.0000 | F1=0.9466
+Fold 4: Precision=0.9394 | Recall=1.0000 | F1=0.9688
+Fold 5: Precision=0.9538 | Recall=1.0000 | F1=0.9764
+Mean precision: 0.9150 ± 0.0409
+Mean recall: 1.0000 ± 0.0000
+Mean f1: 0.9551 ± 0.0228

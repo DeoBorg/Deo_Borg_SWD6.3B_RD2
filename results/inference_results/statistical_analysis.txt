@@ -1,0 +1,16 @@
+============================================================
+STATISTICAL ANALYSIS REPORT
+============================================================
+
+YOLOv8m F1 per fold:     [0.994, 0.9801, 0.9874, 0.9285, 0.9959]
+Faster R-CNN F1 per fold: [0.9143, 0.9697, 0.9466, 0.9688, 0.9764]
+SSD F1 per fold:          [0.9844, 0.9922, 0.9612, 0.96, 0.9688]
+
+ANOVA Precision: F=4.5296, p=0.0342
+
+ANOVA Recall: F=1.6943, p=0.2249
+
+ANOVA F1: F=1.2684, p=0.3164
+T-test F1 YOLOv8m vs Faster R-CNN: t=1.1211, p=0.3250
+T-test F1 YOLOv8m vs SSD: t=0.3390, p=0.7517
+T-test F1 Faster R-CNN vs SSD: t=-1.2653, p=0.2744

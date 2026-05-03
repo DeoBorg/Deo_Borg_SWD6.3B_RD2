@@ -1,13 +1,5 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
+train: train/images
+val: train/images
+test: train/images
 nc: 2
-names: ['0', '1']
-
-roboflow:
-  workspace: deos-workspace-qcpdt
-  project: smartphone-detection-uz7y1
-  version: 1
-  license: Private
-  url: https://app.roboflow.com/deos-workspace-qcpdt/smartphone-detection-uz7y1/1
+names: ['person', 'smartphone']
